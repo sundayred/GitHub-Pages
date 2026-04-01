@@ -20,8 +20,8 @@ I look forward to beginning my career into **Cloud Computing** and **DevOps**!
 -[ ] Develop a personal website
 -[ ] Become AWS certified
 
-![Come golfing with me!](/Users/seanyang/Documents/code/ucsd/cse110/lab1/GitHub-Pages/20251201_FirstTee_373.JPG)
+![My favorite place to study](https://sandiegomagazine.com/wp-content/uploads/2023/08/0235bba9532ff37109860607f78df262-1.jpg)
 
-[link to image]((/Users/seanyang/Documents/code/ucsd/cse110/lab1/GitHub-Pages/20251201_FirstTee_373.JPG))
+[link to image]((https://sandiegomagazine.com/wp-content/uploads/2023/08/0235bba9532ff37109860607f78df262-1.jpg))
 
 [Return to Top of the Page](#sean-yang---current-3rd-year-ucsd)
